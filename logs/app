@@ -1,0 +1,36 @@
+2025-06-02 18:36:09 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:42:50 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:44:39 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:45:14 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:46:18 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:46:20 WARN  org.hibernate.orm.jdbc.error - HHH000247: ErrorCode: 3819, SQLState: HY000
+2025-06-02 18:46:20 WARN  org.hibernate.orm.jdbc.error - Check constraint 'students_chk_2' is violated.
+2025-06-02 18:48:09 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:48:12 WARN  org.hibernate.orm.jdbc.error - HHH000247: ErrorCode: 3819, SQLState: HY000
+2025-06-02 18:48:12 WARN  org.hibernate.orm.jdbc.error - Check constraint 'students_chk_2' is violated.
+2025-06-02 18:54:03 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-02 18:54:30 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:23:19 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:23:22 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:23:33 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:30:45 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:31:27 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 09:32:34 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:21:27 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:21:45 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:21:45 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:30:08 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:30:10 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:31:37 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:31:40 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:42:25 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:42:40 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2025-06-04 10:57:30 INFO  o.e.app.controller.StudentController - User create student
+2025-06-04 11:07:35 ERROR o.example.app.service.StudentService - Error creating student: Error
+2025-06-04 11:07:35 INFO  o.e.app.controller.StudentController - User create student
+2025-06-04 11:21:32 ERROR o.example.app.service.StudentService - Error creating student: Error
+2025-06-04 11:23:31 ERROR o.example.app.service.StudentService - Error creating student: Error
+2025-06-04 11:24:53 ERROR o.example.app.service.StudentService - Error creating student: 
+student mark: >>Incorrect mark was inputted<<
+student email: >>Incorrect email was inputted<<
+student name: >>Incorrect name was inputted<<
